@@ -1,4 +1,7 @@
 # practicagit
+#KARLA JARETZY OZUNA FERNANDEZ 
+#236W0335
+
 
 #El propósito de la actividad fue aprender a crear y utilizar un repositorio, trabajar con ramas, realizar modificaciones en archivos mediante commits y utilizar un Pull Request para proponer y fusionar cambios.
 
@@ -7,3 +10,4 @@ Estas herramientas son importantes en el desarrollo de software, ya que permiten
 OBJETIVO
 
 Conocer y aplicar las principales funciones de GitHub mediante la creación de un repositorio, la administración de ramas, la realización de cambios mediante commits y la apertura y fusión de un Pull Request.
+
